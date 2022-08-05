@@ -5,6 +5,7 @@ package com.jocata.learning.EmployeeMgmt.model;
         private int esal;
 
         public int getId() {
+
             return eid;
         }
 
@@ -25,6 +26,7 @@ package com.jocata.learning.EmployeeMgmt.model;
         }
 
         public void setSalary(int sal) {
+
             this.esal = sal;
         }
     }
